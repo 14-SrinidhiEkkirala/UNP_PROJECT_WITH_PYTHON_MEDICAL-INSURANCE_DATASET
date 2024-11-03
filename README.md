@@ -1,5 +1,5 @@
 # UNP_Project_Python_Medical-Insurance
-Completed this project as a part of my Python Internship with United Network of Professionals (UNP).
+Completed this project as a part of my Python (Machine Learning) Internship with United Network of Professionals (UNP).
 
 **Overview-** This project covers various foundational aspects of a machine learning project including data preprocessing, data visualization, prediction using multiple models. The best-performing model was chosen for deployment.
 
