@@ -20,4 +20,4 @@ Completed this project as a part of my Python (Machine Learning) Internship with
 10. Summary
 
 Google Colab Notebook Link - https://colab.research.google.com/drive/1vOPAvKPqBRNEOmqW4xcG8cyesbARHEQJ?usp=sharing
-Project Presentation Link - 
+Project Presentation Link - https://docs.google.com/presentation/d/1Ul7yunwpMp5CvVuAaa12nYzp1q4ozHqL/edit?usp=sharing&ouid=113608156906685969017&rtpof=true&sd=true
