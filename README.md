@@ -18,3 +18,6 @@ Completed this project as a part of my Python (Machine Learning) Internship with
 8. Preparing Model for Deployment
 9. Algorithms Comparison
 10. Summary
+
+Google Colab Notebook Link - https://colab.research.google.com/drive/1vOPAvKPqBRNEOmqW4xcG8cyesbARHEQJ?usp=sharing
+Project Presentation Link - 
