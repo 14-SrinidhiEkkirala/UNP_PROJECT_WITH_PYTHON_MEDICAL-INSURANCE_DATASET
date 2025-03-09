@@ -19,5 +19,5 @@ Completed this project as a part of my Python (Machine Learning) Internship with
 9. Algorithms Comparison
 10. Summary
 
-Google Colab Notebook Link - https://colab.research.google.com/drive/1vOPAvKPqBRNEOmqW4xcG8cyesbARHEQJ?usp=sharing
-Project Presentation Link - https://drive.google.com/file/d/1NoskeXg9ub8akKHOcVMsN7Mu1lAe9hoR/view?usp=sharing
+Google Colab Notebook Link - https://drive.google.com/file/d/1_B8TMv7zDsJUXmZUSHfUCq28nHPuTN0K/view?usp=sharing
+Project Presentation Link - https://drive.google.com/file/d/1yWaMDonjk09s__5nrq1XjzOj3YHuUJxB/view?usp=sharing
